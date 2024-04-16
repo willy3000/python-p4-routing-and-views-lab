@@ -2,6 +2,8 @@ import io
 import sys
 
 from app import app
+import pdb;
+pdb.set_trace()
 
 class TestApp:
     '''Flask application in flask_app.py'''
